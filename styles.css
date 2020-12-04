@@ -31,3 +31,8 @@ nav ul li a{
     font-size: 18px;
     font-weight: 800;
 }
+.logo{
+    font-family: fantasy;
+    color: rgba(149, 32, 216, 0.2);
+    font-size: 22px;
+}
