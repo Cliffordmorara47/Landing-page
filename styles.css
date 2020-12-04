@@ -7,6 +7,7 @@ section{
     width: 100%;
     height: 95vh;
     background-image: url(../images/grey2.jpeg);
+    position: relative;
 }
 ul{
     list-style: none;
@@ -35,4 +36,28 @@ nav ul li a{
     font-family: fantasy;
     color: rgba(149, 32, 216, 0.2);
     font-size: 22px;
+}
+.p-1{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bolder;
+    letter-spacing: 1.5px;
+    color: black;
+    font-size: 22px;
+}
+.p-2{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    letter-spacing: 1px;
+    color: black;
+    font-size: 60px;
+}
+.text-container p{
+    line-height: 0%;
+    margin: 45px 0px 25px;
+}
+.text-container{
+    position: absolute;
+    left: 15%;
+    top: 45%;
+    transform: translate(-15%, -42%);
 }
