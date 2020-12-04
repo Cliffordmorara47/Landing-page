@@ -61,3 +61,30 @@ nav ul li a{
     top: 45%;
     transform: translate(-15%, -42%);
 }
+.name{
+    width: 150px;
+    height: 42px;
+    border-radius: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    outline: none;
+    margin: 0px 10px;
+}
+.school{
+    width: 250px;
+    height: 42px;
+    border-radius: 10px;
+    background-color: black;
+    color: blanchedalmond;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+    font-size: 14px;
+    outline: blanchedalmond;
+    margin: 0px 10px;
+}
+.img{
+    height: 560px;
+    bottom: 0%;
+    float: right;
+}
