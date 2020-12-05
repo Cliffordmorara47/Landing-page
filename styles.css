@@ -200,6 +200,9 @@ footer{
 
 
 @media screen and (max-width: 1025px) {
+    body{
+        font-style: normal;
+    }
     nav{
         display: flex;
         justify-content: space-between;
