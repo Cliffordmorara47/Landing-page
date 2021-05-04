@@ -8,4 +8,3 @@ I have included my services in the page and my contacts, in any case one should 
 
 The website does not need any special access in order to access it, not even a code is required, once u have the live link, you are set to go. Paste in on the google site and it will bring you to my page, where you can view my information and services I offer. Feel free to make a call if You need the services.
 
-Live link(https://cliffordmorara47.github.io/Landing-page/)
